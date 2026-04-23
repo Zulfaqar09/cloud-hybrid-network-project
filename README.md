@@ -15,7 +15,7 @@ This project demonstrates a hybrid network connecting an on-premises infrastruct
 
 ## 🏗️ Architecture
 
-<img width="6800" height="4400" alt="Cloud-Integrated Hybrid Network Topology drawio (1)" src="https://github.com/user-attachments/assets/31cc439e-67ff-473c-a36b-528b94caa812" />
+Add Diagram here
 
 
 ## ⚙️ Technologies Used
