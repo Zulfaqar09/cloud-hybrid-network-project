@@ -1,4 +1,4 @@
-# cloud-hybrid-network-project
+# Cloud-hybrid-network-project
 Cloud-integrated hybrid network using Cisco + Microsoft Azure (VNet, VPN Gateway, routing)
 
 # 🌐 Cloud Integrated Hybrid Network Project (Azure)
